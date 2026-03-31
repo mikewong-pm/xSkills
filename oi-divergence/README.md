@@ -30,7 +30,7 @@ OI 背离崩盘预警 — 用合约数据检测主力高位平多的做空信号
 
 ### 第 1 步：安装 Antseer MCP
 
-按照 Antseer 官方文档安装并配置 MCP 服务器，确保在 Claude Code 中能看到 `ant_futures_market_structure` 工具。
+按照 Antseer 官方文档：https://antseer.ai/ 安装并配置 MCP 服务器，确保在 Claude Code 中能看到 `ant_futures_market_structure` 工具。
 
 ### 第 2 步：克隆 skill
 
